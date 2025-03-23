@@ -314,7 +314,6 @@ Next i
 
 End if
 
-
 ## Conditionals
 Sub readandwritedata
 reading a value from A1 and writing to B1Dim readvalue as variant
