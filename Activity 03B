@@ -3,7 +3,7 @@
 ## System
 print("Hello user!")
 user_name = input("What is your name?)"
-print(f"Greetings {Nothingbranch}")
+print(f"Greetings {Maestro}")
 favorite_number = int(input("What is your favorite number?)"
 my_favorite_number = 7  # Example favorite number
 if favorite_number < my_favorite_number
