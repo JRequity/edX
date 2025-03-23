@@ -17,6 +17,6 @@ age = "34"
 print("My name is " + name + " I am " + str(age) + " years old.")
 if true
 def print_box_with_true():
-    message = "I am an entrepreneur with Obamacare."
+    message = "I am a data analyst by day also an artist by night.  A startup owner in between."
 
 	# Break
