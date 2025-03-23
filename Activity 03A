@@ -12,7 +12,7 @@ is_beer = true
 print_frankfurter = print (Hefeweizen)
 print_age = print (age)
 print_hits_the_spot! = print (Hits the spot!)
-formatted_string = f"this is a {beer}, I am {21} years old, and it is {'refreshing' if isn't my thing}."
+formatted_string = "this is a {beer}, I am {21} years old, and it is {'refreshing' if isn't my thing}."
 
 ## Boolean
 not_refreshing = not is_refreshing
